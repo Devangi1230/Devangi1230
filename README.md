@@ -5,7 +5,7 @@
 
 ## 💡 About Me  
 - 📊 Skilled in Excel, Power BI, SQL, Python (Pandas, Matplotlib)
-- 🔎 Passionate about data analytics, consumer behavior, and business insights  
+- 🔎 Passionate about data analytics, HR analytics ,consumer and business insights  
 - 🌱 Currently learning Korean (TOpik level 2 holder) , learing Data analyst
 - 🎯 Goal: Land a role as a Data Analyst/ HR analyst/ Business insight analyst 
 
