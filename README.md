@@ -20,7 +20,8 @@
 ## 📂 Projects  
 - 📊 Sales Insight Dashboard (2009–2011)– Power BI analysis of global sales trends  
 - 📈 Social Media Campaign Tracker – Power BI dashboard analyzing CPC, CTR & demographics  
-- 🛍️ Consumer Behavior Analysis (Python) – EDA on Google Play, Myntra, Flights, Wine datasets  
+- 🛍️ HR Analytics case study : Impact of AI adoption on Employees
+- 🛍️ Olist Ecommerce SQL analystics project - SQL ( SSMS )
 
 ## 📫 Connect With Me  
 - 💼 LinkedIn - https://www.linkedin.com/in/devangi-sharma-6016ba24a 
